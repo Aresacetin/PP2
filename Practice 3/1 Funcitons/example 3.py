@@ -20,5 +20,5 @@ add(my_set, 10)
 print(my_set)
 
 my_dict = {"key": "value", "wasd": "wasdwasd"}
-add(my_dict, "new_key_very_original_i_know")
+add(my_dict, "new_key")
 print(my_dict)
